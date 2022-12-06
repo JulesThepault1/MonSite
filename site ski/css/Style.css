@@ -1,0 +1,46 @@
+
+
+
+nav.menu-nav ul li.btn {
+	display: inline-block;
+	list-style-type: none;
+	text-indent: 0px;
+    margin-top: -100px;
+}
+
+nav.menu-nav ul li.btn a{
+	color: #010101;
+	background-color: #75CAEF;
+	text-decoration: none;
+	font-size: 25px;
+	display: inline-block;
+	
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color:;
+	background-color: ;
+	transition: 0.5s all;
+}
+
+
+
+
+
+div#content div{
+	font-size: 70px;
+    text-indent: 350px;
+   }
+
+div#content div a{
+   color: #010101;
+   text-decoration: none;
+   list-style-type: none;
+   font-family: optima;
+}
+
+div#content ul li.btn {
+	list-style-type: none;
+
+}
+
